@@ -1,7 +1,7 @@
 services:
   - type: web
     name: saini-txt-direct
-    plan: free
+    plan: pro
     env: docker
     dockerfilePath: Dockerfile
     repo: https://github.com/greatautomate/lovecourse
